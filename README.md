@@ -9,3 +9,7 @@
 ## wiring pro micro
 
 ![wiring microcontroller](docs/handwiring.png)
+
+# firmware
+
+[QMK](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/bolek) is oficially supported.
